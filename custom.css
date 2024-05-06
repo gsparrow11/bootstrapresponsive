@@ -1,0 +1,7 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+header,footer {background-color: darkgreen;}
+h1 {color: beige;}
+h2 {color: darkgreen;}
+body {background-color: beige;}
+img {width: 500px; height: 500px; margin: 85px}
+p {font-size: medium; font-family: monospace; color: brown;}
